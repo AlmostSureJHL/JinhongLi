@@ -1,4 +1,4 @@
-/* È«¾ÖÑùÊ½ */
+/* å…¨å±€æ ·å¼ */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -7,7 +7,7 @@ body {
     line-height: 1.6;
 }
 
-/* ÈİÆ÷ÑùÊ½ */
+/* å®¹å™¨æ ·å¼ */
 .container {
     max-width: 900px;
     margin: 20px auto;
@@ -16,7 +16,7 @@ body {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 
-/* ±êÌâÑùÊ½ */
+/* æ ‡é¢˜æ ·å¼ */
 header {
     background-color: #333;
     color: white;
@@ -29,7 +29,7 @@ header h1 {
     font-size: 2.5rem;
 }
 
-/* µ¼º½ÑùÊ½ */
+/* å¯¼èˆªæ ·å¼ */
 nav {
     text-align: center;
     margin: 20px 0;
@@ -46,7 +46,7 @@ nav a:hover {
     color: #007bff;
 }
 
-/* ¶ÎÂäºÍÎÄ±¾ÑùÊ½ */
+/* æ®µè½å’Œæ–‡æœ¬æ ·å¼ */
 section {
     margin-bottom: 20px;
 }
@@ -63,13 +63,13 @@ p {
     color: #555;
 }
 
-/* ÁĞ±íÑùÊ½ */
+/* åˆ—è¡¨æ ·å¼ */
 ul {
     list-style-type: square;
     padding-left: 20px;
 }
 
-/* Ò³½ÅÑùÊ½ */
+/* é¡µè„šæ ·å¼ */
 footer {
     background-color: #333;
     color: white;
